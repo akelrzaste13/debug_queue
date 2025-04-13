@@ -41,3 +41,5 @@ Enterprise support available at [forgetool.dev](https://forgetool.dev)
 
 MIT License - Commercial use permitted.
 © 2025
+
+# PR Merge: 2025-10-20 - enhancement/merge-9746
